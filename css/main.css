@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 26px;
+}
+
+main{
+    margin: 4% 5%;
+}
+
+.flex{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.title{
+    font-size: 2.5em;
+}
+
+.sub-title{
+    font-size: 1.17em;
+    font-weight: 700;
+}
+
+.text-violet{
+    color: #8845f4;
+}
+
+.button{
+    display: block;
+    width: max-content;
+    margin-top: 2em;
+    padding: 13px 42px;
+    border-radius: 20px;
+    background-color: #8845f4;
+    color: white;
+    text-decoration: none;
+}
+
+.image{
+    width: 23em;
+    margin-left: 10em;
+    object-fit: contain;
+}
+
+.background-sky{
+    background-color: rgb(238, 251, 255);
+    padding: 2.2em;
+}
+
+.sideborder{
+    border-left: 1px solid #c9c7c7;
+    padding: 0.4em 0 0.4em 1em;
+}
